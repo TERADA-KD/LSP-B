@@ -6,3 +6,4 @@ https://qiita.com/shizuma/items/2b2f873a0034839e47ce
 アプリもGithubのアカウントも入れ直ししても問題は解決せず。
 0707
 20210707-2
+ルータを変えてDHCPへ変更
