@@ -7,3 +7,4 @@ https://qiita.com/shizuma/items/2b2f873a0034839e47ce
 0707
 20210707-2
 ルータを変えてDHCPへ変更
+アクセス権の追加
